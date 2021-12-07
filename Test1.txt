@@ -7,3 +7,6 @@ print("Hello")
 
 
 print("var2")
+print("Hello2")
+print("by")
+print("3")
